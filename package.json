@@ -11,17 +11,12 @@
     "url": "git+https://github.com/ibrarli/input_integer_state_version.git"
   },
   "keywords": [
-    "input",
-    "integer",
-    "state"
+    "input_integer_state"
   ],
   "author": "ibrar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ibrarli/input_integer_state_version/issues"
   },
-  "homepage": "https://github.com/ibrarli/input_integer_state_version#readme",
-  "dependencies": {
-    "budo": "^11.8.4"
-  }
+  "homepage": "https://github.com/ibrarli/input_integer_state_version#readme"
 }
